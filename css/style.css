@@ -1,0 +1,17 @@
+#countries-details {
+    display: none;
+}
+
+#flag {
+    width: 60%;
+}
+
+#title {
+    text-align: center;
+}
+
+#country-name {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    background-color: whitesmoke;
+}
